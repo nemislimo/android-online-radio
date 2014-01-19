@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Russian Online Radio</string>
+    
+    <string name="donate_01">Please donate if you like Russian Online Radio and want to support me!</string>
+    <string name="donate_02">Donate %s</string>
+    <string name="donate_03">Money sent successfully. Thank you!</string>
+    <string name="donate_04">An error has occurred, please try again</string>
+    <string name="donate_05">Account number has been copied to the clipboard</string>
+    <string name="donate_06">Failed to retrieve data from Google Play</string>
+    <string name="donate_07">Go to web</string>
+    
+    <string name="error_server">Service is not available.\nTo download the stations list you must connect to the Internet.</string>
+    <string name="error_json">Could not parse file stations try again.</string>
+    <string name="error_io">Error loading stations.\nTry to update the station.</string>
+   
+    <string name="menu_update">Update station</string>
+    <string name="menu_stop">Stop</string>
+    <string name="menu_rate">Rate</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_add">Add station</string>
+    <string name="menu_donate">Donate</string>
+    
+    <string name="share">I\'m listening to Russian Online Radio on Android. Join me! https://play.google.com/store/apps/details?id=org.nkuznetsov.onlineradio</string>
+    
+    <string name="divider_fav">Starred</string>
+    <string name="divider_rambler">Rambler Radio</string>
+    <string name="divider_own">My stations</string>
+    
+    <string name="note_message" formatted="false">%s, %s</string>
+    
+   	<string name="kb_sec_format" formatted="false">%s KBit/sec</string>
+    <string name="kb_sec">KBit/sec</string>
+    
+    <string name="addstation_wrongname">Name field is not valid</string>
+    <string name="addstation_wrongbitrate">Bitrate field is not valid</string>
+    <string name="addstation_wrongurl">URL field is not valid</string>
+    <string name="addstation_title">Station name</string>
+    <string name="addstation_bitrate">Bitrate</string>
+    <string name="addstation_url">URL stream</string>
+    <string name="addstation_add">Add</string>
+    <string name="addstation_cancel">Cancel</string>
+    <string name="addstation_wait">Download stations list first</string>
+    
+    <string name="remstation_title">Removing station</string>
+    <string name="remstation_message" formatted="false">Do you really want to remove the %s station?</string>
+    <string name="remstation_remove">Remove</string>
+    <string name="remstation_cancel">Cancel</string>
+    
+    <string name="rembitrate_title">Removing the bitrate</string>
+    <string name="rembitrate_message" formatted="false">Do you really want to remove the bit rate %s of %s station?</string>
+    <string name="rembitrate_remove">Remove</string>
+    <string name="rembitrate_cancel">Cancel</string>
+</resources>
